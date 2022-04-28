@@ -34,10 +34,10 @@ header {
     color: #F7FFF7;
 }
 h1 {
-    font-size: 100px;
+    font-size: 6.25em;
 }
 h2 {
-    font-size: 45px;
+    font-size: 2.8125em;
     line-height: 1;
 }
 h1 , h2 {
@@ -101,6 +101,7 @@ a :hover {
     background-size: cover;
     background-position: top right;
     padding-bottom: 100px;
+    
 }
 .education p {
   width: 60%;
@@ -155,5 +156,4 @@ footer {
     .contact-list a {
         padding: 5px;
     }
-      }
-/* I tried to apply what i have learnt in the last couple of weeks, i tried to apply even float but mostly grid and flex, i tried the problem of float in the image by bringing down to mediaquery*/
+}
